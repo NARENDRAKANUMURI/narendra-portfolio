@@ -51,24 +51,10 @@ function Home() {
           {/* Buttons */}
           <div className="flex flex-wrap gap-4 mb-6">
             <a
-              href="/projects"
-              className="px-6 py-3 bg-blue-600 rounded-xl hover:bg-blue-700 transition"
-            >
-              View Projects
-            </a>
-
-            <a
               href="/resume.pdf"
               className="px-6 py-3 border border-gray-400 rounded-xl hover:bg-gray-700 transition"
             >
               Download Resume
-            </a>
-
-            <a
-              href="/contact"
-              className="px-6 py-3 bg-purple-600 rounded-xl hover:bg-purple-700 transition"
-            >
-              Contact Me
             </a>
           </div>
 
